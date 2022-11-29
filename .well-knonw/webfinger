@@ -1,0 +1,10 @@
+{
+    "subject": "acct:mfoster@mfoster.github.com",
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://mfoster.github.com/static/mark.jsonld"
+        }
+    ]
+}
